@@ -1,4 +1,7 @@
-class Home
+package sikuli;
+
+
+public class Sik
 {
    public static void main(String[] args)
    {
